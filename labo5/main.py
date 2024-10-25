@@ -1,3 +1,6 @@
+#CURSO: BIOINFORMATICA
+#ALUMNO: HECTOR PAOLO BARAZORDA CUELLAR
+#LABORATORIO NUMERO 5
 from enum import IntEnum
 import numpy as np
 
