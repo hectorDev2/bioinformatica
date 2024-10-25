@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-
-"""
-Implementación del algoritmo de Smith-Waterman para alineamiento local.
-"""
-
 from enum import IntEnum
 import numpy as np
 
