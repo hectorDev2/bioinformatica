@@ -30,6 +30,6 @@ El script utiliza la biblioteca `logging` para mostrar información durante la e
 
 ```plaintext
 📂 inferencia-red-booleanas/
-├── inferencia_red.py    # Código principal
+├── infe_1.py    # Código principal
 ├── datos.txt            # Archivo de datos de ejemplo
 └── README.md            # Este archivo
